@@ -1,0 +1,7 @@
+// Install 
+
+1. npm create vite@latest {folder name} -- --template react
+2. cd {folder name}
+3. npm install
+4. npm run dev
+(localhost:5173)
